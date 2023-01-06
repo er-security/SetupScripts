@@ -2,5 +2,7 @@
 
 sudo apt install golang -y
 
-git clone https://github.com/ffuf/ffuf ; cd ffuf ; go get ; go build
+wget https://github.com/ffuf/ffuf/releases/download/v1.5.0/ffuf_1.5.0_linux_amd64.tar.gz
+tar -zxvf ffuf_1.5.0_linux_amd64.tar.gz
+
 sudo cp ffuf /usr/local/bin/
