@@ -8,7 +8,5 @@ tar -zxvf ffuf_1.5.0_linux_amd64.tar.gz -C ./ffuf
 cd ffuf
 
 sudo cp ffuf /usr/local/bin/
-rm *
 cd ..
 rm -rf ffuf
-rm ffuf_1.5.0_linux_amd64.tar.gz
