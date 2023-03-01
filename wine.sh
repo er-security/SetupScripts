@@ -38,3 +38,4 @@ sudo apt -yV  install playonlinux q4wine
 
 
 #ここから先は最初のリンクページに書かれている通りの設定を行う
+#一度exeファイルをwineで実行いないと~/.wineディレクトリが生成されない模様
