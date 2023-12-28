@@ -9,4 +9,4 @@ cd ffuf
 
 sudo cp ffuf /usr/local/bin/
 cd ..
-rm -rf ffuf
+rm -rf ffuf ffuf_*
