@@ -42,5 +42,7 @@ sudo apt-get install mono-complete
 #winetricks install
 sudo apt-get install winetricks
 
+winetricks cjkfonts
+
 #ここから先は最初のリンクページに書かれている通りの設定を行う
 #一度exeファイルをwineで実行いないと~/.wineディレクトリが生成されない模様
